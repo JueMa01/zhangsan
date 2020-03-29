@@ -59,7 +59,11 @@ print(len(b))
 print(len(a+b))
 '''
 
+'''
 #浪老师写的的代码：
 a=input("请输入:")
 b=input("请输入:")
 print("两端字符串的长度是：",len(a)+len(b))
+'''
+print("动一改下")
+print("第二次提交代码")
